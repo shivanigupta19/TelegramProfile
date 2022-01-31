@@ -1,8 +1,6 @@
 # Telegram Profile Animation
 
-![Alt Text](https://github.com/FabioXimenes/telegram_profile_animation/blob/main/telegram_profile_animation.gif)
-
-Watch in high resolution on [YouTube](https://youtu.be/vWOtscftyZw).
+![Alt Text](https://github.com/shivanigupta19/TelegramProfile/blob/main/telegram_profile_animation.gif)
 
 ## Get Started
 
